@@ -1,7 +1,7 @@
 
-class ArrayList:
+class List:
     def __init__(self):
-        self.size = 5
+        self.size = 10
         self.arr = [0 for i in range(self.size)]
         self.count = 0
 
